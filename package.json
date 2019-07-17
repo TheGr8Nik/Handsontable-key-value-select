@@ -1,6 +1,6 @@
 {
   "name": "handsontable-key-value-select",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Key-value select editor for Handsontable",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
