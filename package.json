@@ -1,0 +1,29 @@
+{
+  "name": "handsontable-key-value-select",
+  "version": "1.0.0",
+  "description": "Key-value select editor for Handsontable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "basic_example": "parcel src/examples/basic.html",
+    "build_examples": "parcel build src/examples/basic.html",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheGr8Nik/Handsontable-key-value-select.git"
+  },
+  "author": "Andrea Niklaus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheGr8Nik/Handsontable-key-value-select/issues"
+  },
+  "homepage": "https://github.com/TheGr8Nik/Handsontable-key-value-select#readme",
+  "dependencies": {
+    "handsontable": "^7.1.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3",
+    "typescript": "^3.5.3"
+  }
+}
